@@ -9,14 +9,6 @@ function App() {
         <p>
          Welcome to my first react app
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
       </header>
         <div class="App">
           <h1>Hello Dojo!</h1>
@@ -26,6 +18,7 @@ function App() {
             <li>Be a badass in react</li>
             <li>Hit the gym</li>
             <li>Get a Job</li>
+            <li>Be happy</li>
           </ul>
         </div>
     </div>
