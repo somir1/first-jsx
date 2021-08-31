@@ -15,10 +15,12 @@
   color: white;
   font-family: 'Bebas Neue', cursive;
   gap: 1em;
+  padding: 1em;
 }
 
 h1{
   font-size: 100px;
+  letter-spacing: .25em;
 }
 
 p{

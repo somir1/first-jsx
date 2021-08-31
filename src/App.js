@@ -18,15 +18,16 @@ function App() {
           Learn React
         </a>
       </header>
-        <h1>Hello Dojo!</h1>
-
-        <p>Things I need to do:</p>
-        <ul>
-          <li>Learn React</li>
-          <li>Be a badass in react</li>
-          <li>Hit the gym</li>
-          <li>Get a Job</li>
-        </ul>
+        <div class="App">
+          <h1>Hello Dojo!</h1>
+          <p>Things I need to do:</p>
+          <ul>
+            <li>Learn React</li>
+            <li>Be a badass in react</li>
+            <li>Hit the gym</li>
+            <li>Get a Job</li>
+          </ul>
+        </div>
     </div>
   );
 }
